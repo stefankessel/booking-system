@@ -9,8 +9,8 @@ Lists - Binary Search - OOP - Inner Classes - Data Input
 
 ### Use
 
-complie files
-cd booking system
+complie files - 
+cd booking system - 
 javac *.java
 
 ### App
